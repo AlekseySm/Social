@@ -1,0 +1,9 @@
+doctype html
+html(lang='ru')
+	block vars
+	head
+		title #{title}
+		block head
+			include head
+	body(class= bodyClass)
+		block content

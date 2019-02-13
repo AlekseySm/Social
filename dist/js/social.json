@@ -1,0 +1,83 @@
+{
+  "0" : {
+    "name": "@abhisek.daas",
+    "img": "user1.png",
+    "social": "Facebook",
+    "icon": "facebook-color",
+    "background": "facebook",
+    "folowers": "1,701",
+    "status": "+4",
+    "icon-status": "page1"
+  },
+  "1" : {
+      "name": "@wholetthedasout",
+      "img": "user2.png",
+      "social": "Instagram",
+      "icon": "twitter-color",
+      "background": "twitter",
+      "folowers": "1,567",
+      "status": "-3",
+      "icon-status": "page1",
+      "icon-status-down": "rotate(180)"
+  },
+  "2" : {
+      "name": "@wholetthedasout",
+      "img": "user3.png",
+      "social": "Instagram",
+      "icon": "instagram-color",
+      "background": "instagram",
+      "folowers": "1,139",
+      "status": "+11",
+      "icon-status": "page1"
+    },
+    "3" : {
+      "name": "@abhisekd3",
+      "img": "user1.png",
+      "social": "LinkedIn",
+      "icon": "linkedIn-color",
+      "background": "linkedIn",
+      "folowers": "2,016",
+      "status": "+39",
+      "icon-status": "page1"
+    },
+    "4" : {
+      "name": "@TheAbhisekD",
+      "img": "user4.png",
+      "social": "YouTube",
+      "icon": "youtube-color",
+      "background": "youtube",
+      "folowers": "3,190",
+      "status": "+22",
+      "icon-status": "page1"
+    },
+    "5" : {
+      "name": "@abhisekd",
+      "img": "user3.png",
+      "social": "Snapchat",
+      "icon": "snapchat",
+      "background": "snapchat",
+      "folowers": "8,754",
+      "status": "",
+      "icon-status": ""
+    },
+    "6" : {
+      "name": "@+AbhisekDas",
+      "img": "user3.png",
+      "social": "Google+",
+      "icon": "googlePlus-color",
+      "background": "google",
+      "folowers": "1,033",
+      "status": "",
+      "icon-status": ""
+    },
+    "7" : {
+      "name": "@1316139228245221376",
+      "img": "user5.png",
+      "social": "Vine",
+      "icon": "vine-color",
+      "background": "vine",
+      "folowers": "1,045",
+      "status": "",
+      "icon-status": ""
+    }
+}
